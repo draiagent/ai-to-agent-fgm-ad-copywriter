@@ -1,0 +1,27 @@
+{
+  "repository": "ai-to-agent-fgm-ad-copywriter",
+  "skill": "fgm-ad-copywriter",
+  "version": "0.1.1",
+  "language": [
+    "zh-TW",
+    "en"
+  ],
+  "method": "Fact → Gap → Meaning",
+  "signature": "AI Coach 益力康陳董 x CGM Coach 血糖教練 | 2026 AI to Agent | 2027 AI to AGI Agent",
+  "license_status": "reserved",
+  "release_date": "2026-10-14",
+  "visual_style": "翡翠金境 | Emerald Goldscape",
+  "card_version": "0.1.0",
+  "publication_status": "published",
+  "visibility": "public",
+  "description": "Evidence-grounded FGM advertising skill with scripts, visuals and verification.",
+  "topics": [
+    "ai-to-agent",
+    "agent-skill",
+    "copywriting",
+    "advertising",
+    "fgm",
+    "marketing"
+  ],
+  "about_url": null
+}

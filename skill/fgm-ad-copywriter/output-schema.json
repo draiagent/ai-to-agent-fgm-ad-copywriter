@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "FGM Ad Copywriter Output",
+  "type": "object",
+  "required": ["evidence", "facts", "angles", "verification"],
+  "properties": {
+    "evidence": {"type": "array"},
+    "facts": {"type": "array"},
+    "angles": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["awareness", "hook", "script", "meaning"],
+        "properties": {
+          "awareness": {"enum": ["problem-aware", "solution-aware", "product-aware"]},
+          "hook": {"type": "string"},
+          "script": {"type": "string"},
+          "meaning": {"type": "string"},
+          "shots": {"type": "array"}
+        }
+      }
+    },
+    "verification": {
+      "type": "object",
+      "required": ["status", "checks"],
+      "properties": {
+        "status": {"enum": ["PASS", "REVIEW", "FAIL"]},
+        "checks": {"type": "array"}
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "product": "500mL vacuum insulated bottle",
+  "audience": "需核對容量與結構的辦公族",
+  "platform": "Instagram Reels",
+  "duration_seconds": 30,
+  "goal": "product page visit",
+  "evidence": [
+    {
+      "id": "E1",
+      "source": "本檔虛構規格 E1（教學用途）",
+      "text": "Double-wall vacuum stainless-steel construction"
+    },
+    {
+      "id": "E2",
+      "source": "本檔虛構規格 E2（教學用途）",
+      "text": "Capacity: 500 mL"
+    }
+  ],
+  "simulation": true
+}
