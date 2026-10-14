@@ -1,7 +1,7 @@
 {
   "repository": "ai-to-agent-fgm-ad-copywriter",
   "skill": "fgm-ad-copywriter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "language": [
     "zh-TW",
     "en"

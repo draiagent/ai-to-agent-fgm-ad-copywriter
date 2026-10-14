@@ -4,7 +4,7 @@
 
 - Repo 名稱：`ai-to-agent-fgm-ad-copywriter`
 - Skill 名稱：`fgm-ad-copywriter`
-- 版本：`0.1.1`
+- 版本：`0.1.2`
 - README、VERSION、CHANGELOG、Release Notes 一致。
 - 所有相對連結有效。
 - `python .github/scripts/repo-check.py` 通過。
@@ -25,4 +25,4 @@ Fact → Gap → Meaning advertising skill for evidence-grounded hooks, scripts,
 
 ## 本次交付狀態
 
-2026-10-14 已建立公開 Repo draiagent/ai-to-agent-fgm-ad-copywriter 並建立 tag v0.1.1；About URL 留空，不虛構網站。GitHub Release 尚未建立；建立前請依 docs/validation-report.md 確認限制。
+2026-10-14 已建立公開 Repo draiagent/ai-to-agent-fgm-ad-copywriter，並建立 tag v0.1.1、v0.1.2；About URL 留空，不虛構網站。GitHub Release 尚未建立；建立前請依 docs/validation-report.md 確認限制。

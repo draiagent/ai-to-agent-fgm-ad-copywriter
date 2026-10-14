@@ -4,7 +4,7 @@
 
 **Repo:** `ai-to-agent-fgm-ad-copywriter`  
 **Skill:** `fgm-ad-copywriter`  
-**Version:** `0.1.1`
+**Version:** `0.1.2`
 
 ![FGM 技能總覽](assets/cards/01-overview.png)
 
@@ -87,9 +87,9 @@ Agent 應先完成 Evidence 與 Fact，不應直接跳到 Hook。
 | 06 | [驗收與修正閉環](assets/cards/06-verification-loop.png) |
 
 設計風格：[翡翠金境｜Emerald Goldscape](docs/visual-style.md)。
-圖卡 v0.1.0 沿用已定稿內容，套件 v0.1.1 修正技能格式及示例。
+圖卡 v0.1.0 沿用已定稿內容，套件 v0.1.2 修正技能格式及示例。
 
-補充文件：[逐頁文字](docs/cards-transcript.md) · [資產權利](docs/asset-rights.md) · [發布說明](docs/release-notes.md)
+補充文件：[社群文章（完整署名）](docs/social-post.md) · [逐頁文字](docs/cards-transcript.md) · [資產權利](docs/asset-rights.md) · [發布說明](docs/release-notes.md)
 
 ## Repository Structure
 
@@ -112,6 +112,7 @@ Agent 應先完成 Evidence 與 Fact，不應直接跳到 Hook。
 │  ├─ compliance-guardrails.md
 │  ├─ validation.md
 │  ├─ publishing.md
+│  ├─ social-post.md
 │  └─ release-notes.md
 ├─ examples/
 ├─ tests/
@@ -151,7 +152,7 @@ FGM 不是「寫完就算完成」。輸出至少要通過：
 
 ## Versioning
 
-採 Semantic Versioning。現在版本：**v0.1.1**，日期 2026-10-14，狀態：已發布為公開 Repo，tag v0.1.1；尚未建立 GitHub Release。
+採 Semantic Versioning。現在版本：**v0.1.2**，日期 2026-10-14，狀態：已發布為公開 Repo，tag v0.1.2；尚未建立 GitHub Release。
 
 ## Rights & License
 

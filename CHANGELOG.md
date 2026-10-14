@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.2] - 2026-10-14
+
+### Added
+- 收錄完整社群文章 docs/social-post.md，包含雙年度完整署名與標籤。
+
+### Changed
+- 更新 README 文章入口、套件版本、發布說明及 SHA-256 校驗清單。
+- 六張圖卡與 Skill 核心內容維持既有定稿。
+
+### Release
+- 發布為 tag v0.1.2；沿用 v0.1.1 發布時補上的 `.gitattributes` 與 `.github/scripts/repo-check.py` 的 UTF-8 修正（更新包以較舊基底製作，已避免被退回）。
+
 ## [0.1.1] - 2026-10-14
 
 ### Added
